@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Business Problem](#-business-problem)
@@ -23,7 +23,7 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This Power BI project delivers a full operational analysis of Uber trip data covering the entire month of June 2024 across New York City. The report is structured across three pages **Overview Analysis**, **Time Analysis**, and **Details** giving stakeholders a complete picture of booking volume, revenue distribution, vehicle preferences, and hourly demand patterns.
 
@@ -35,7 +35,7 @@ The goal was to go beyond surface-level trip counts and answer real operational 
 
 ---
 
-## 🧩 Business Problem
+##  Business Problem
 
 Ride-hailing operations generate enormous amounts of transactional data every day, but without structured analysis, that data sits unused. Operations managers, fleet coordinators, and business analysts need answers to questions like:
 
@@ -48,7 +48,7 @@ This report was built to answer exactly those questions transforming raw trip da
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — Overview Analysis
 The executive summary page. Displays top-level KPIs, vehicle type performance, payment method split, day vs. night trip distribution, and location analysis including the most frequent pickup and drop-off points. ![Overview Dashboard](Uber%20Overview%20Analysis.png)
@@ -67,17 +67,17 @@ A transaction-level table showing individual trips with Trip ID, pickup date, ve
 
 | Metric | Value |
 |---|---|
-| 💰 Total Booking Amount | $1,600,000 |
-| 🚗 Total Bookings | 103,700 |
-| 📍 Total Trip Distance | 349,000 miles |
-| 💵 Average Booking Amount | $15.00 |
-| 🛣️ Average Trip Distance | 3 miles |
-| ⏱️ Average Trip Time | 16 minutes |
-| 📅 Period Covered | June 1 – June 30, 2024 |
+| Total Booking Amount | $1,600,000 |
+| Total Bookings | 103,700 |
+| Total Trip Distance | 349,000 miles |
+| Average Booking Amount | $15.00 |
+| Average Trip Distance | 3 miles |
+| Average Trip Time | 16 minutes |
+| Period Covered | June 1 – June 30, 2024 |
 
 ---
 
-## 🔍 Key Insights & Findings
+## Key Insights & Findings
 
 ### 1. Revenue is Evenly Distributed Across Premium Tiers — But UberX Dominates Volume
 Despite all vehicle types averaging the same $15 booking amount, UberX accounts for **37.4% of all bookings** (38,744 trips) and **36.5% of total revenue** ($583,880). This is not just the most popular tier — it is the operational backbone of the entire network.
@@ -99,7 +99,7 @@ Penn Station/Madison Square West is the single most frequent pickup location wit
 
 ---
 
-## 🚗 Vehicle Type Analysis
+## Vehicle Type Analysis
 
 | Vehicle | Total Bookings | Total Revenue | Trip Distance | Avg. Booking |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ Penn Station/Madison Square West is the single most frequent pickup location wit
 
 ---
 
-## 📍 Location Intelligence
+## Location Intelligence
 
 ### Top 5 Pickup Locations by Booking Volume
 
@@ -136,13 +136,13 @@ Penn Station/Madison Square West is the single most frequent pickup location wit
 > 📍 **Upper East Side North**
 
 ### Farthest Trip Recorded
-> 🛣️ **116,924 miles** an exceptional outlier requiring data validation
+>  **116,924 miles** an exceptional outlier requiring data validation
 
 **Location Insight:** The top 5 pickup locations are all concentrated in **Midtown Manhattan and the Upper East Side** high-density residential and transit areas. These zones should be treated as priority deployment areas during peak hours.
 
 ---
 
-## ⏰ Time & Demand Analysis
+## Time & Demand Analysis
 
 ### Hourly Demand Pattern
 Demand follows a classic urban mobility curve:
@@ -194,24 +194,24 @@ Demand follows a classic urban mobility curve:
 
 ## 💡 Business Recommendations
 
-### 1. 🎯 Deploy More Drivers Around Penn Station on Thursday Evenings
+### 1. Deploy More Drivers Around Penn Station on Thursday Evenings
 Penn Station records the highest pickup volume overall, and Thursday midnight shows a surprising demand spike of 312 bookings. Increasing driver incentives in this area on Thursday evenings from 10 PM to 2 AM could capture significant unmet demand.
 
-### 2. 📅 Implement Weekend Surge Incentives Starting Saturday Morning
+### 2. Implement Weekend Surge Incentives Starting Saturday Morning
 Weekend demand is nearly double weekday demand. Proactively incentivizing driver availability from Friday evening through Sunday evening — particularly for UberX and Uber Comfort — would prevent surge pricing from pushing customers toward competitors.
 
-### 3. 🟢 Investigate and Promote Uber Green Availability
+### 3. Investigate and Promote Uber Green Availability
 Uber Green is the lowest-booked vehicle type with 14,498 trips and $216,181 revenue — approximately 43% fewer bookings than UberX. With growing sustainability awareness, a targeted marketing push and driver acquisition campaign for Uber Green could unlock an underserved customer segment.
 
-### 4. 💸 Reduce Cash Dependency Through Digital Payment Incentives
+### 4. Reduce Cash Dependency Through Digital Payment Incentives
 Cash transactions at 32% create reconciliation risk and reduce operational visibility. Offering small discounts or reward points for Uber Pay transactions could shift 10–15% of cash users to digital improving revenue tracking and reducing cash-handling costs.
 
-### 5. 📊 Investigate the 116,924-Mile Outlier Trip
+### 5. Investigate the 116,924-Mile Outlier Trip
 The farthest trip recorded at 116,924 miles is statistically impossible for a June 2024 New York trip and is almost certainly a data entry error or GPS anomaly. This should be flagged, investigated, and either corrected or excluded to prevent it from distorting any distance-based analytics.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
