@@ -25,7 +25,7 @@
 
 ## 📖 Project Overview
 
-This Power BI project delivers a full operational analysis of Uber trip data covering the entire month of June 2024 across New York City. The report is structured across three pages — **Overview Analysis**, **Time Analysis**, and **Details** — giving stakeholders a complete picture of booking volume, revenue distribution, vehicle preferences, and hourly demand patterns.
+This Power BI project delivers a full operational analysis of Uber trip data covering the entire month of June 2024 across New York City. The report is structured across three pages **Overview Analysis**, **Time Analysis**, and **Details** giving stakeholders a complete picture of booking volume, revenue distribution, vehicle preferences, and hourly demand patterns.
 
 The goal was to go beyond surface-level trip counts and answer real operational questions:
 - When and where is demand highest?
@@ -44,7 +44,7 @@ Ride-hailing operations generate enormous amounts of transactional data every da
 - **What time of day and day of week** drives the most bookings?
 - **Are there demand dips** that could be addressed with targeted incentives?
 
-This report was built to answer exactly those questions — transforming raw trip data into a strategic operations tool.
+This report was built to answer exactly those questions transforming raw trip data into a strategic operations tool.
 
 ---
 
@@ -95,7 +95,7 @@ While most weekday midnight hours see under 200 bookings, Thursday at hour 0 (mi
 Penn Station/Madison Square West is the single most frequent pickup location with **4,500 bookings**, tied with Upper East Side North as a drop-off destination. Transit hub proximity is a clear and consistent demand driver.
 
 ### 6. Day Trips Dominate but Night Trips Represent a Third of All Revenue
-65.28% of all trips (67,700) are classified as day trips. Night trips account for **34.72% (36,000 trips)** — a significant segment that requires dedicated driver availability planning, particularly on Thursday and Friday evenings.
+65.28% of all trips (67,700) are classified as day trips. Night trips account for **34.72% (36,000 trips)** a significant segment that requires dedicated driver availability planning, particularly on Thursday and Friday evenings.
 
 ---
 
@@ -111,7 +111,7 @@ Penn Station/Madison Square West is the single most frequent pickup location wit
 
 **Key Takeaways:**
 - UberX commands more bookings than the next two vehicle types **combined**
-- Uber Comfort ($253,995) narrowly edges out Uber Black ($250,192) — indicating strong demand for comfort-tier rides at non-premium pricing
+- Uber Comfort ($253,995) narrowly edges out Uber Black ($250,192) indicating strong demand for comfort-tier rides at non-premium pricing
 - Uber Green, the eco-friendly option, is the least booked — suggesting either limited driver availability or lower consumer awareness
 - UberX is the **most preferred vehicle at the top location** (Penn Station) with 7,700 bookings — more than double the next preference
 
@@ -136,9 +136,9 @@ Penn Station/Madison Square West is the single most frequent pickup location wit
 > 📍 **Upper East Side North**
 
 ### Farthest Trip Recorded
-> 🛣️ **116,924 miles** — an exceptional outlier requiring data validation
+> 🛣️ **116,924 miles** an exceptional outlier requiring data validation
 
-**Location Insight:** The top 5 pickup locations are all concentrated in **Midtown Manhattan and the Upper East Side** — high-density residential and transit areas. These zones should be treated as priority deployment areas during peak hours.
+**Location Insight:** The top 5 pickup locations are all concentrated in **Midtown Manhattan and the Upper East Side** high-density residential and transit areas. These zones should be treated as priority deployment areas during peak hours.
 
 ---
 
@@ -176,7 +176,7 @@ Demand follows a classic urban mobility curve:
 
 ---
 
-## 💳 Payment Behaviour
+## Payment Behaviour
 
 | Payment Method | Bookings | Share |
 |---|---|---|
@@ -204,7 +204,7 @@ Weekend demand is nearly double weekday demand. Proactively incentivizing driver
 Uber Green is the lowest-booked vehicle type with 14,498 trips and $216,181 revenue — approximately 43% fewer bookings than UberX. With growing sustainability awareness, a targeted marketing push and driver acquisition campaign for Uber Green could unlock an underserved customer segment.
 
 ### 4. 💸 Reduce Cash Dependency Through Digital Payment Incentives
-Cash transactions at 32% create reconciliation risk and reduce operational visibility. Offering small discounts or reward points for Uber Pay transactions could shift 10–15% of cash users to digital — improving revenue tracking and reducing cash-handling costs.
+Cash transactions at 32% create reconciliation risk and reduce operational visibility. Offering small discounts or reward points for Uber Pay transactions could shift 10–15% of cash users to digital improving revenue tracking and reducing cash-handling costs.
 
 ### 5. 📊 Investigate the 116,924-Mile Outlier Trip
 The farthest trip recorded at 116,924 miles is statistically impossible for a June 2024 New York trip and is almost certainly a data entry error or GPS anomaly. This should be flagged, investigated, and either corrected or excluded to prevent it from distorting any distance-based analytics.
@@ -222,7 +222,7 @@ The farthest trip recorded at 116,924 miles is statistically impossible for a Ju
 
 ---
 
-## 📐 Data Model & DAX
+##  Data Model & DAX
 
 ### Key DAX Measures Used
 
