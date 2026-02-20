@@ -1,6 +1,6 @@
 # 🚖 Uber Trip Analysis | Power BI Dashboard
 
-> **A comprehensive operational and demand intelligence report analyzing 103,700+ Uber trips across New York City in June 2024 — uncovering booking patterns, vehicle performance, location hotspots, and time-based demand to support smarter driver allocation and revenue optimization.**
+> **A comprehensive operational and demand intelligence report analyzing 103,700+ Uber trips across New York City in June 2024 uncovering booking patterns, vehicle performance, location hotspots, and time-based demand to support smarter driver allocation and revenue optimization.**
 
 ---
 
