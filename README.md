@@ -192,7 +192,7 @@ Demand follows a classic urban mobility curve:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 ### 1. Deploy More Drivers Around Penn Station on Thursday Evenings
 Penn Station records the highest pickup volume overall, and Thursday midnight shows a surprising demand spike of 312 bookings. Increasing driver incentives in this area on Thursday evenings from 10 PM to 2 AM could capture significant unmet demand.
@@ -258,7 +258,7 @@ TOPN(1, VALUES(Uber[Location]), [Total Bookings], DESC)
 
 ---
 
-## 📂 How to Use This Dashboard
+## How to Use This Dashboard
 
 1. **Clone or download** this repository
 2. Open the `.pbix` file in **Power BI Desktop**
@@ -270,11 +270,11 @@ TOPN(1, VALUES(Uber[Location]), [Total Bookings], DESC)
 
 ---
 
-## 👤 Author
+## Author
 
 **Faleye Olumide David**
 Data Analyst | Power BI Developer | Business Intelligence Analyst
 
-📍 Nigeria
+Nigeria
 🔗 [LinkedIn](https://www.linkedin.com/in/olumide-david-79b17726a/)
-🌐 Portfolio: *datascienceportfol.io* (coming soon)
+🌐 Portfolio: https://www.datascienceportfol.io/olumidedavid
