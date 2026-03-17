@@ -56,10 +56,10 @@ The executive summary page. Displays top-level KPIs, vehicle type performance, p
 
 
 ### Page 2 — Time Analysis
-A deep-dive into demand timing. Features an hourly booking curve, a day-of-week comparison chart, and a full booking heatmap showing the intersection of hour and day — making peak demand windows immediately visible. ![Time Analysis](Time%20series%20Analysis.png)
+A deep-dive into demand timing. Features an hourly booking curve, a day-of-week comparison chart, and a full booking heatmap showing the intersection of hour and day making peak demand windows immediately visible. ![Time Analysis](Time%20series%20Analysis.png)
 
 ### Page 3 — Details
-A transaction-level table showing individual trips with Trip ID, pickup date, vehicle type, payment method, passenger count, distance, booking amount, and location — enabling granular drill-down for operational review. ![Details Page](Details%20and%20Recommendation.png)
+A transaction-level table showing individual trips with Trip ID, pickup date, vehicle type, payment method, passenger count, distance, booking amount, and location enabling granular drill-down for operational review. ![Details Page](Details%20and%20Recommendation.png)
 
 ---
 
@@ -79,17 +79,17 @@ A transaction-level table showing individual trips with Trip ID, pickup date, ve
 
 ## Key Insights & Findings
 
-### 1. Revenue is Evenly Distributed Across Premium Tiers — But UberX Dominates Volume
+### 1. Revenue is Evenly Distributed Across Premium Tiers But UberX Dominates Volume
 Despite all vehicle types averaging the same $15 booking amount, UberX accounts for **37.4% of all bookings** (38,744 trips) and **36.5% of total revenue** ($583,880). This is not just the most popular tier — it is the operational backbone of the entire network.
 
 ### 2. Weekend Demand is Significantly Higher Than Weekdays
-The time analysis reveals a clear weekly demand pattern. Saturday and Sunday consistently record the highest booking volumes — with Sunday peaking at over **19,000 bookings** compared to Thursday's low of approximately **10,000 bookings**. This is a 90% swing in demand between the weakest and strongest days of the week.
+The time analysis reveals a clear weekly demand pattern. Saturday and Sunday consistently record the highest booking volumes with Sunday peaking at over **19,000 bookings** compared to Thursday's low of approximately **10,000 bookings**. This is a 90% swing in demand between the weakest and strongest days of the week.
 
 ### 3. Midday is the Revenue Sweet Spot
 Bookings begin climbing sharply from 6:00 AM, reach their peak between **10:00 AM and 6:00 PM**, and decline into late evening. The 12:00 PM hour on Sundays alone records **1,424 bookings** — the single highest hour-day combination in the entire dataset.
 
 ### 4. Thursday Midnight is a Hidden Late-Night Demand Spike
-While most weekday midnight hours see under 200 bookings, Thursday at hour 0 (midnight) records **312 bookings** — the highest late-night figure of the week. This is a consistently underserved window where driver availability often drops below demand.
+While most weekday midnight hours see under 200 bookings, Thursday at hour 0 (midnight) records **312 bookings** the highest late-night figure of the week. This is a consistently underserved window where driver availability often drops below demand.
 
 ### 5. Penn Station is the Undisputed Demand Hub
 Penn Station/Madison Square West is the single most frequent pickup location with **4,500 bookings**, tied with Upper East Side North as a drop-off destination. Transit hub proximity is a clear and consistent demand driver.
@@ -112,7 +112,7 @@ Penn Station/Madison Square West is the single most frequent pickup location wit
 **Key Takeaways:**
 - UberX commands more bookings than the next two vehicle types **combined**
 - Uber Comfort ($253,995) narrowly edges out Uber Black ($250,192) indicating strong demand for comfort-tier rides at non-premium pricing
-- Uber Green, the eco-friendly option, is the least booked — suggesting either limited driver availability or lower consumer awareness
+- Uber Green, the eco-friendly option, is the least booked suggesting either limited driver availability or lower consumer awareness
 - UberX is the **most preferred vehicle at the top location** (Penn Station) with 7,700 bookings — more than double the next preference
 
 ---
