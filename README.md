@@ -276,5 +276,6 @@ TOPN(1, VALUES(Uber[Location]), [Total Bookings], DESC)
 Data Analyst | Power BI Developer | Business Intelligence Analyst
 
 Nigeria
+Interactive Report Link: https://app.powerbi.com/view?r=eyJrIjoiYWY3NjEzYzgtZjg3MC00ZDk5LTgyMDAtOTVjMDg2YzE3NGFlIiwidCI6IjIxZjFhZWYwLTc3MDUtNDRkYS1hYzk4LTA0NDUwOGE0YmYyYyJ9
 🔗 [LinkedIn](https://www.linkedin.com/in/olumide-david-79b17726a/)
 🌐 Portfolio: https://www.datascienceportfol.io/olumidedavid
