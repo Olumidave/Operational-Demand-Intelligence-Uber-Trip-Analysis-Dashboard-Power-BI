@@ -51,16 +51,16 @@ This report was built to answer exactly those questions transforming raw trip da
 ## Dashboard Pages
 
 ### Page 1 — Overview Analysis
-The executive summary page. Displays top-level KPIs, vehicle type performance, payment method split, day vs. night trip distribution, and location analysis including the most frequent pickup and drop-off points. !![Overview](Uber%20Overview%20Analysis.png)
+The executive summary page. Displays top-level KPIs, vehicle type performance, payment method split, day vs. night trip distribution, and location analysis including the most frequent pickup and drop-off points. !![Overview](Overview.png)
 
 
 ### Page 2 — Time Analysis
 A deep-dive into demand timing. Features an hourly booking curve, a day-of-week comparison chart, and a full booking heatmap showing the intersection of hour and day making peak demand windows immediately visible. 
-![Time Analysis](Uber%20Time%20Analysis.png)
+![Time Analysis](Time%20Analysis.png)
 
 
 ### Page 3 — Details
-A transaction-level table showing individual trips with Trip ID, pickup date, vehicle type, payment method, passenger count, distance, booking amount, and location enabling granular drill-down for operational review. !![Details](Uber%20Details%20%26%20Recommendation.png)
+A transaction-level table showing individual trips with Trip ID, pickup date, vehicle type, payment method, passenger count, distance, booking amount, and location enabling granular drill-down for operational review. !![Details](Details.png)
 
 ---
 
